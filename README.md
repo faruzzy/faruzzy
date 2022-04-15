@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Roland, a fully-stacked TypeScripter.
+I've been doing this for 12 years and going.
+
 <!--
 **faruzzy/faruzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
