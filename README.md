@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, I'm Roland👋
 
-I am Roland, a fully-stacked TypeScripter.
+I am a fully-stacked TypeScripter.
 I've been doing this for 12 years and going.
 
 ### Stack
