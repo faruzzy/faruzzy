@@ -1,13 +1,15 @@
-### Hi there 👋😄,
+j## Hi there 👋😄,
 
-I am a fully-stacked TypeScripter.
 
-My name is Roland and I build consumer-facing websites and apps.
 
-I care deeply about UX, DX, performance, a11y, and SEO. I specialize in the tooling + React space and also work with serverless architectures and infrastructures using platforms like Vercel and frameworks like Serverless.
+My name is Roland, I am a fully-stacked TypeScripter who enjoys building consumer-facing websites and apps.
+
+I care deeply about UX, DX, performance, a11y, and SEO. I specialize in the tooling + React space and also work with serverless architectures and infrastructures using platforms like Vercel and AWS.
 ### Stack
   
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> [![](https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)](https://styled-components.com/)
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+- 🔭 I’m currently working on a task management app
+- 🌱 I’m currently learning Next.js
 
 <!--
 **faruzzy/faruzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
