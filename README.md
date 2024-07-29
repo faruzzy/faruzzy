@@ -1,10 +1,10 @@
-## Hi there 👋😄,
+j# Hi there 👋😄,
 
 
 
-My name is Roland, I am a fully-stacked TypeScripter who enjoys building consumer-facing websites and apps.
+I am a fully-stacked TypeScripter who enjoys building consumer-facing websites and apps.
 
-I care deeply about UX, DX, performance, a11y, and SEO. I specialize in the tooling + React space and also work with serverless architectures and infrastructures using platforms like Vercel and AWS.
+I care deeply about UX, DX, performance and specialize in the tooling + React space and also work with serverless architectures and infrastructures using platforms like Vercel and AWS.
 ### Stack
   
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
